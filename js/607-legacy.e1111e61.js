@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkga_tykw"]=self["webpackChunkga_tykw"]||[]).push([[607],{75607:function(n,t,e){e.r(t),e.d(t,{default:function(){return f}});var u=function(){var n=this,t=n._self._c;return t("div",[n._v("2222222222222222222222222")])},r=[],s={name:"test2",components:{},data:function(){return{}},methods:{}},a=s,l=e(1001),c=(0,l.Z)(a,u,r,!1,null,null,null),f=c.exports}}]);
+//# sourceMappingURL=607-legacy.e1111e61.js.map
